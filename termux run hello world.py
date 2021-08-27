@@ -4,6 +4,6 @@ pkg install python
 
 python
 
-print('Hello World')
+print("Hello World")
 
 Hello World
